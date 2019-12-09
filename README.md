@@ -9,7 +9,7 @@ Spark is commonly used to simplify and distribute making sense of large data set
   * An example would be from one of these JSON data sets from the US Government:
     * https://catalog.data.gov/dataset?res_format=JSON
 2. Write a simple Spark application, I would recommend in **pyspark**, that aggregate the data into a simpler form. Like taking all of the temperature data from the world and simplifying it down to the average temp of the earth for each month.
-3. Graph your simplified data and write up a short discussion of how you can now make generalizations from this data reduction.
+3. Graph your simplified data and/or write up a short discussion of how you can now make generalizations from this data reduction.
 4. Contrast writing Spark code vs MPI code. Write this contrast up into a short report.
   * Was it easier or harder to write?
   * Are the goals the same?
